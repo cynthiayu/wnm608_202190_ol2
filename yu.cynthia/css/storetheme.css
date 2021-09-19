@@ -1,0 +1,55 @@
+:root {
+   --color-neutral-lighter:#f9f9f9ff;
+   --color-neutral-light:#bcbcbcff;
+   --color-neutral-medium:#4a4a4aff;
+   --color-neutral-dark:#212121ff;
+}
+
+body {
+	background-color: #efefef;
+	padding-bottom:10em;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Della+Respira&family=Montserrat:ital,wght@0,300;0,400;0,600;0,800;0,900;1,400&display=swap');
+
+
+/*PRODUCT IN LIST*/
+.product {
+	margin: 0;
+	padding: 1em;
+	position:relative;
+	overflow: hidden;
+	background-color: white;
+	display: inline-block;
+	transition:all 0.3s;
+	font-weight: normal;
+}
+.product:hover {
+   text-decoration:none;
+   box-shadow:0 0 15px rgba(0,0,0,0.3);
+}
+.product-image img {
+   max-width:100%;
+   vertical-align:middle;
+}
+.product-caption {
+   padding:1em;
+}
+.product-price {
+   font-size:1.2em;
+}
+.product-title {
+   font-size:0.9em;
+}
+
+
+
+[class*='col-']>.card {
+   height:100%;
+}
+
+@media (max-width:500px) {
+   :root {
+      --header-height:2rem;
+   }
+}

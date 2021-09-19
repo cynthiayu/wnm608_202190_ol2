@@ -1,0 +1,33 @@
+[
+   {
+      "name":"Hamilton Cline",
+      "type":"Teacher",
+      "email":"hcline@academyart.edu",
+      "classes":[608,617,820]
+   },
+   {
+      "name":"Vivienne Youn",
+      "type":"Student",
+      "email":"vivienneyounvv@gmail.com",
+      "classes":[622,606,608]
+   },
+   {
+      "name":"Lucille Huang",
+      "type":"Customers",
+      "email":"yhuang38@art.edu",
+      "classes":[608,617,820]
+   },
+   {
+      "name":"Yun Yao",
+      "type": "Student",
+      "email": "yaoyun0831@gmail.com",
+      "classes":[608]
+   },
+   {
+      "name":"Erica Gao",
+      "type":"Student",
+      "email":"erica.gao1103@gmail.com",
+      "classes":[605,608,613]
+   }
+
+]
