@@ -10,11 +10,19 @@
 
 
 ### Project Links 
-- http://cynthiayu.com/aau/wnm608/yu.cynthia/recipe
 - http://cynthiayu.com/aau/wnm608/yu.cynthia/index.html
 
 ### Remember This!!!
-- git add .
-- git status
-- git commit -m"type something here"
-- git push origin main
+- What is the Terminal
+- Useful Terminal commands
+	- cd (change directory)
+	- mv (move directory)
+- What is git
+- Create a github account
+- Install Git on your computer
+	- git --version
+- Useful Git commands
+	- git add .
+	- git status
+	- git commit -m"type something here"
+	- git push origin main
